@@ -4,4 +4,8 @@
 def hello():
     print('Howdy')
 
-hello()
+def hello2():
+    print('HowdyDo')
+
+hello() 
+hello2()

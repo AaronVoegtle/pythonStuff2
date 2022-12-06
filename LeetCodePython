@@ -1,0 +1,7 @@
+#potato = 'potato'
+#print(potato[3])
+
+def hello():
+    print('Howdy')
+
+hello()
